@@ -1,0 +1,5 @@
+{
+  "FIELD_REQUIRED": "Valore richiesto",
+  "STRING_AT_LEAST": "Deve essere almeno {{min}} caratteri",
+  "STRING_AT_MUST": "Deve essere massimo {{max}} caratteri"
+}

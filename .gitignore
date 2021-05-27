@@ -1,0 +1,7 @@
+.idea
+node_modules
+logs
+.DS_Store
+.env
+application-state.json
+tmp
